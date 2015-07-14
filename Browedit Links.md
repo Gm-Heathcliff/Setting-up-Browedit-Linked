@@ -55,3 +55,6 @@ http://browedit.excalibur-nw.com/?a=viewtopic&id=533
 
 Learn with Youtube:
 https://www.youtube.com/user/Kiromanas/videos
+
+
+3d Model Integration coming soon.....
