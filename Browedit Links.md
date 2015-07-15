@@ -18,7 +18,7 @@ http://browedit.excalibur-nw.com/dlls.rar
 
 Your Data Folder:
 
-nw.com/release/latest/datapack_stable.rar
+http://browedit.excalibur-nw.com/release/latest/datapack_stable.rar
 
 Mapping Ressources:
 
