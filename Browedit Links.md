@@ -30,7 +30,7 @@ http://www.eathena.ws/board/index.php?showtopic=253679 (waterpack)
 
 http://www.eathena.ws/board/index.php?showtopic=252260&hl=arcturus
 
-https://rathena.org/board/topic/57268-dl-reorganized-romodeltxt/
+https://rathena.org/board/topic/57268-dl-reorganized-romodeltxt/   ( dont use it anymore its not up to date make your own on http://mappingro.prauds.fr/ or use my one you can get here on git )
 
 http://www.eathena.ws/board/index.php?showtopic=269326 (reflection)
 
