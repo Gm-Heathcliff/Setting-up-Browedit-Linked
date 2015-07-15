@@ -70,6 +70,8 @@ https://www.youtube.com/user/Kiromanas/videos (the same like syoujis guides vide
 
 https://www.youtube.com/user/vampirekiller20/videos (orlox videos)
 
+
+
 3d Model Integration Programms:
 
 GR2 Granny Custom 3D models in RO:
@@ -94,6 +96,8 @@ RO2 GoTW:
 
 https://mega.co.nz/#F!tQwyQCTD!JNEehQnbvdl6Ww5JYo3Kcg
 
+
+
 FBX to RSM Animated Models:
 
 RSMConverter 3.0 by xarple :
@@ -111,6 +115,7 @@ http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=10775920
 http://www.autodesk.com/education/free-software/3ds-max (Free Student version is still enough)
 
 
+
 RSW and GND Maps into FBX:
 
 ROMAPCONV9 by Xarple : 
@@ -126,6 +131,7 @@ look upwards
 look upwards
 
 
+
 Importing and Editing RSM Models into 3DS:
 
 Browedit
@@ -133,6 +139,7 @@ Browedit
 3D Object Converter any version.
 
 3DS Max  
+
 
 
 Linklist 3d Objects:
