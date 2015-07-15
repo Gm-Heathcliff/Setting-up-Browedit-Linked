@@ -48,7 +48,7 @@ Programms for Texture fitting:
 http://www.befunky.com/cartoonizer/index.php/
 
 
-Guide for Browedit Using:
+Guides for Browedit Using:
 
 https://rathena.org/board/topic/53281-guide-aeries-guide-for-browedit/
 
@@ -56,11 +56,16 @@ http://browedit.excalibur-nw.com/?a=viewtopic&id=533
 
 https://rathena.org/board/topic/53466-guide-syoujis-browedit-tutorial-videos/
 
+
 Guide for 3d Model Implantation:
+
 https://rathena.org/board/topic/53466-guide-syoujis-browedit-tutorial-videos/ 
+
 https://rathena.org/board/topic/76992-guide-olrox-tutorials/
 
+
 Learn with Youtube:
+
 https://www.youtube.com/user/Kiromanas/videos (the same like syoujis guides videos)
 
 
@@ -68,32 +73,56 @@ https://www.youtube.com/user/Kiromanas/videos (the same like syoujis guides vide
 
 GR2 Granny Custom 3D models in RO:
 
-Granny Pack: https://dl.dropboxusercontent.com/u/52175822/Granny.rar
+Granny Pack:
 
-Granny Converter: http://rathena.org/board/files/file/3022-granny-converter-by-ricky92/
+https://dl.dropboxusercontent.com/u/52175822/Granny.rar
 
-Umodel: http://www.gildor.org/downloads
+Granny Converter:
 
-ActorXImporter: http://www.gildor.org/projects/unactorx
+http://rathena.org/board/files/file/3022-granny-converter-by-ricky92/
 
-RO2 GoTW: https://mega.co.nz/#F!tQwyQCTD!JNEehQnbvdl6Ww5JYo3Kcg
+Umodel:
+
+http://www.gildor.org/downloads
+
+ActorXImporter:
+
+http://www.gildor.org/projects/unactorx
+
+RO2 GoTW:
+
+https://mega.co.nz/#F!tQwyQCTD!JNEehQnbvdl6Ww5JYo3Kcg
 
 FBX to RSM Animated Models:
 
-RSMConverter 3.0 by xarple : http://www.mediafire.com/download/ba1xsxgpvkh44wc/RsmConverter20130724.zip ( funktion https://rathena.org/board/topic/77926-tool-rsm-converter-12/)
+RSMConverter 3.0 by xarple :
 
-FBX Converter 2013.3 by Autodesk : http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909     http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=10775920
+http://www.mediafire.com/download/ba1xsxgpvkh44wc/RsmConverter20130724.zip ( funktion https://rathena.org/board/topic/77926-tool-rsm-converter-12/)
 
-3DS Max 2013 or More :http://www.autodesk.com/education/free-software/3ds-max (Free Student version is still enough)
+FBX Converter 2013.3 by Autodesk : 
+
+http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909 
+
+http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=10775920
+
+3DS Max 2013 or More :
+
+http://www.autodesk.com/education/free-software/3ds-max (Free Student version is still enough)
 
 
 RSW and GND Maps into FBX:
 
-ROMAPCONV9 by Xarple : http://www.mediafire.com/download/5lmb9orgsr3goeu/ROMAPCONV1.9.zip
+ROMAPCONV9 by Xarple : 
 
-FBX Converter by Autodesk look upwards
+http://www.mediafire.com/download/5lmb9orgsr3goeu/ROMAPCONV1.9.zip
 
-3DS Max 2012 or More look upwards
+FBX Converter by Autodesk
+
+look upwards
+
+3DS Max 2012 or More 
+
+look upwards
 
 
 Importing and Editing RSM Models into 3DS:
