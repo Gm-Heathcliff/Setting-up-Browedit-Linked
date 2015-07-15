@@ -34,6 +34,7 @@ https://rathena.org/board/topic/57268-dl-reorganized-romodeltxt/   ( dont use it
 
 http://www.eathena.ws/board/index.php?showtopic=269326 (reflection)
 
+
 https://rathena.org/board/topic/60469-dl-resources-for-custom-textures/
 
 http://code.google.com/p/aerie-pinkpanther/downloads/list (allthings)
