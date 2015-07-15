@@ -49,6 +49,7 @@ http://www.befunky.com/cartoonizer/index.php/
 
 
 Guides for Browedit Using:
+https://rathena.org/board/topic/59885-guide-browedit/ ( Ein Guide auf Deutsch / A Guide on German )
 
 https://rathena.org/board/topic/53281-guide-aeries-guide-for-browedit/
 
