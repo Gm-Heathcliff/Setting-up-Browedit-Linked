@@ -61,7 +61,10 @@
             <lightfalloff>1</lightfalloff>
             <height>10</height>
         </light>
-        <light>
+    </colors>
+</lights>
+<lights>
+    <light>
         <name>default</name>
         <color r="0" g="1" b="1" />
         <range>50</range>
@@ -294,5 +297,5 @@
             <lightfalloff>1</lightfalloff>
             <height>10</height>
         </light>
-    </colors>
+    </MyLight>
 </lights>
