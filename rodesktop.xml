@@ -1,0 +1,83 @@
+<config>
+    <ro directory="c:\program files\gravity\ro\">
+        <grf>c:\program files\gravity\ro\data.grf</grf>
+        <grf>c:\program files\gravity\ro\rdata.grf</grf>
+		<grf>c:\program files\gravity\ro\Ressources.grf</grf>
+		<grf>c:\program files\gravity\ro\arcturus.grf</grf>
+    </ro>
+    <files>
+        <models>
+            <model>data/romodels.txt</model>
+            <model>data/alphamodels.txt</model>
+            <model>data/randommodels.txt</model>
+			<model>data/arcturusmodels.txt</model>
+			<model>data/MyModels.txt</model>
+        </models>
+        <textures>
+            <texture>data/rotextures.txt</texture>
+            <texture>data/texturescustom.txt</texture>
+			<texture>data/arctextures.txt</texture>
+			<texture>data/MyTextures.txt</texture>
+        </textures>
+        <sounds>
+            <sound>data/rosounds.txt</sound>
+        </sounds>
+    </files>
+    <graphics>
+        <!--<resx>1920</resx>
+        <resy>1080</resy>
+        <fullscreen>true</fullscreen>-->
+        <resx>1920</resx>
+        <resy>1080</resy>
+        <fullscreen>true</fullscreen>
+        <bpp>32</bpp>
+        <font>Comic</font>
+        <skin>data/skins/ro.xml</skin>
+        <notilecolor>00FF00</notilecolor>
+        <bgcolor>4F4F4F</bgcolor>
+        <camerasmoothing>0.6</camerasmoothing>
+    </graphics>
+    <undo size="50" />
+    <language>english</language>
+    <splash>data/swordman.jpg</splash>
+    <water>
+        <directory>data\texture\ฟ๖ลอ\</directory>
+        <extension>.jpg</extension>
+        <count>8</count>
+    </water>
+    <gattiles>
+        <tile>0</tile>
+        <tile>1</tile>
+        <tile>2</tile>
+        <tile>3</tile>
+        <tile>4</tile>
+        <tile>5</tile>
+        <tile>6</tile>
+    </gattiles>
+    <wm>
+        <hotbar>
+            <x>744</x>
+            <y>17</y>
+        </hotbar>
+        <sprite>
+            <x>237</x>
+            <y>184</y>
+        </sprite>
+        <modelswindow>
+            <x>25</x>
+            <y>25</y>
+            <w>974</w>
+            <h>718</h>
+        </modelswindow>
+        <textures>
+            <x>25</x>
+            <y>25</y>
+            <w>974</w>
+            <h>718</h>
+        </textures>
+        <minimap>
+            <x>966</x>
+            <y>23</y>
+        </minimap>
+    </wm>
+</config>
