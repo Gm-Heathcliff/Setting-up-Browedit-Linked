@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lights>
+    <light>
+        <name>default1</name>
+        <color r="0" g="0" b="0" />
+        <range>200</range>
+        <brightness>127</brightness>
+        <maxlight>256</maxlight>
+        <givesshadow>0</givesshadow>
+        <lightfalloff>1</lightfalloff>
+        <height>10</height>
+    </light>
+    <light>
+        <name>ambient light1</name>
+        <color r="1" g="0" b="0" />
+        <range>200000</range>
+        <brightness>127</brightness>
+        <maxlight>127</maxlight>
+        <givesshadow>1</givesshadow>
+        <lightfalloff>0.00001</lightfalloff>
+        <height>50</height>
+    </light>
+    <colors>
+        <light>
+            <name>red1</name>
+            <color r="0.5" g="0" b="0" />
+            <range>200</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <name>green1</name>
+            <color r="0" g="0.5" b="0" />
+            <range>200</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <name>blue1</name>
+            <color r="0" g="0" b="0.5" />
+            <range>200</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0.5" g="0" b="0.5" />
+            <name>purple1</name>
+            <range>100</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+        <name>default</name>
+        <color r="0" g="1" b="1" />
+        <range>50</range>
+        <brightness>127</brightness>
+        <maxlight>256</maxlight>
+        <givesshadow>0</givesshadow>
+        <lightfalloff>1</lightfalloff>
+        <height>10</height>
+    </light>
+    <light>
+        <name>ambient light</name>
+        <color r="0" g="1" b="" />
+        <range>200000</range>
+        <brightness>127</brightness>
+        <maxlight>127</maxlight>
+        <givesshadow>1</givesshadow>
+        <lightfalloff>0.00001</lightfalloff>
+        <height>50</height>
+    </light>
+    <colors>
+        <light>
+            <name>red</name>
+            <color r="0.5" g="0" b="0" />
+            <range>200</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <name>green</name>
+            <color r="0" g="0.5" b="0" />
+            <range>200</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <name>blue</name>
+            <color r="0" g="0" b="0.5" />
+            <range>200</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0.5" g="0" b="0.5" />
+            <name>purple</name>
+            <range>100</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0.5" g="0.2" b="0.2" />
+            <name>Torche</name>
+            <range>100</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+    </colors>
+    <MyLight>
+        <light>
+            <color r="0.6" g="0.4" b="0.2" />
+            <name>Jaune Sombre</name>
+            <range>30</range>
+            <brightness>300</brightness>
+            <maxlight>200</maxlight>
+            <givesshadow>0</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="1" g="1" b="0" />
+            <name>Jaune</name>
+            <range>100</range>
+            <brightness>70</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>0</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="1" g="0" b="0" />
+            <name>Rouge</name>
+            <range>100</range>
+            <brightness>100</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>0</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0" g="0" b="0" />
+            <name>Lumiere</name>
+            <range>70</range>
+            <brightness>500</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0" g="0" b="1" />
+            <name>Bleu</name>
+            <range>100</range>
+            <brightness>100</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0" g="1" b="1" />
+            <name>Cyan</name>
+            <range>50</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>0</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="1" g="0.9" b="0.9" />
+            <name>Blanche</name>
+            <range>50</range>
+            <brightness>100</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>0</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0.5" g="1" b="0.5" />
+            <name>Verte</name>
+            <range>60</range>
+            <brightness>120</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>0</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0.5" g="0" b="0.5" />
+            <name>Violet</name>
+            <range>50</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>0</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0.6" g="0.4" b="0.2" />
+            <name>Orange (mine)</name>
+            <range>50</range>
+            <brightness>500</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>0</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0" g="0" b="0" />
+            <name>Orange leg</name>
+            <range>100</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="1" g="0" b="1" />
+            <name>Rose</name>
+            <range>40</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>0</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0" g="0" b="0" />
+            <name>Rose</name>
+            <range>100</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0" g="0.3" b="0.3" />
+            <name>cyan dark</name>
+            <range>30</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0.3" g="0" b="0.3" />
+            <name>rose dark</name>
+            <range>40</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+        <light>
+            <color r="0" g="0" b="0" />
+            <name>rose dark</name>
+            <range>100</range>
+            <brightness>127</brightness>
+            <maxlight>256</maxlight>
+            <givesshadow>1</givesshadow>
+            <lightfalloff>1</lightfalloff>
+            <height>10</height>
+        </light>
+    </colors>
+</lights>
