@@ -72,6 +72,8 @@ https://www.youtube.com/user/Kiromanas/videos (the same like syoujis guides vide
 
 https://www.youtube.com/user/vampirekiller20/videos (orlox videos)
 
+https://www.youtube.com/watch?v=zTUrpFEmKZo (copy/paste Full areas)
+
 
 
 3d Model Integration Programms:
