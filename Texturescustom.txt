@@ -1,10 +1,4 @@
-custom/caution|caution.bmp
-custom/mytest|test.bmp
-custom/subdir/mytest2|subdir/test.bmp
-
-
-
-
+custom/dont-delete-file|dont-delete-file.bmp
 
 custom/event/ars_01.bmp|event/ars_01.bmp
 custom/event/ars_02.bmp|event/ars_02.bmp
