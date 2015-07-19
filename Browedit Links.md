@@ -56,6 +56,8 @@ https://rathena.org/board/files/file/2659-water-texture-caustics-generator/  (ow
 
 website for Textures Ressources and models:
 
+http://www.freepik.com/free-vectors/textures (firefox or crash)
+
 http://www.cgtextures.com/
 
 http://www.mayang.com/textures/
