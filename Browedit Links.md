@@ -1,5 +1,8 @@
 # Setting-up-Browedit-Linked
 
+BROWEDIT MANAGER Very cool for single textures
+https://rathena.org/board/topic/100782-browedit-manager-v0151/#entry280158
+
 Brow Edit Main Site by Borf:
 
 https://www.facebook.com/browedit?fref=ts
