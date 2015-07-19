@@ -54,7 +54,7 @@ https://rathena.org/board/files/file/2659-water-texture-caustics-generator/  (ow
 
 
 
-website for Textures Ressources and models:
+website for Single Textures Ressources and models:
 
 http://www.freepik.com/free-vectors/textures (firefox or crash)
 
@@ -79,6 +79,8 @@ http://www.curse.com/texture-packs/minecraft/category/two-fifty-six-x
 etc.
 
 
+
+Texture Packs websites:
 
 
 
