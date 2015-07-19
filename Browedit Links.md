@@ -58,13 +58,13 @@ website for Textures Ressources and models:
 
 http://www.freepik.com/free-vectors/textures (firefox or crash)
 
-http://www.cgtextures.com/
+http://www.cgtextures.com/(Primary)
 
-http://www.mayang.com/textures/
+http://www.mayang.com/textures/(Primary)
 
-http://www.textureking.com/
+http://www.textureking.com/ (Primary)
 
-http://textures.forrest.cz/
+http://textures.forrest.cz/ (Primary)
 
 https://www.arroway-textures.ch/de
 
