@@ -82,15 +82,53 @@ etc.
 
 Texture Packs websites:
 
+http://www.texturemate.com/content/texturepacks
+
+http://www.minecrafttexturepacks.com/
+
+http://www.minecraftdl.com/category/minecraft-texture-packs/
+
+http://www.curse.com/texture-packs/minecraft
+
+http://www.planetminecraft.com/resources/texture_packs/
+
+http://resourcepack.net/
+
+http://www.craftube.de/minecraft/resource-packs/
+
+http://resource-packs.de/
+
+http://mcpehub.com/textures
+
+http://www.resource-packs.com/tag/minecraft-1-7-2-texture-packs/
+
+http://www.pixeden.com/texture-packs
+
+http://www.spiralgraphics.biz/packs/
+
+http://www.fusionplate.com/4387/27-free-wood-wall-texture-packs/
+
+https://www.assetstore.unity3d.com/en/#!/content/351
+
+http://opengameart.org/content/urban-texture-pack-from-gametexturescom
+
+http://www.freecinema4dtextures.com/tag/450-free-textures-for-cinema-4d/
+
+http://www.ucreative.com/resources/51-high-quality-free-texture-packs-to-download/
+
+http://www.brusheezy.com/textures
+
+There are kinda Endless ressources if you search in google
+
+YOU CAN USE ANY TEXTURE IF YOU USE CONVERTER AND YOU CAN BIND THEM EASY WITH MY TOOLS! ( i Recommend to Sort out Textures that dont fit the ragnarok style ! but if they dont but you want to fit them to ro style use something like Cartoonizer!
+
+Programms for Texture color fitting:
+
+http://www.befunky.com/cartoonizer/index.php/
 
 
 
 http://www.pspad.com/en/ hexeditor for quadtree
-
-Programms for Texture fitting:
-
-http://www.befunky.com/cartoonizer/index.php/
-
 
 Guides for Browedit Using:
 https://rathena.org/board/topic/59885-guide-browedit/ ( Ein Guide auf Deutsch / A Guide on German )
