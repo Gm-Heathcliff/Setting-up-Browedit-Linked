@@ -7,6 +7,7 @@ http://browedit.excalibur-nw.com/
 Revisions:
 
 http://browedit.excalibur-nw.com/release/      ( Use 558 or 586 for saving and 620 for editing)
+http://browedit.borf.info/2.0/ (Browedit 2) ( the update version will be on his fb site)
 
 your exe:
 
