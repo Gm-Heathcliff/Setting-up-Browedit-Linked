@@ -63,6 +63,10 @@ http://textures.forrest.cz/
 https://www.arroway-textures.ch/de
 http://www.sketchuptexture.com/p/textures.html
 http://www.deviantart.com/browse/all/resources/textures/
+http://resourcepack.net/res/256x-resource-packs/
+http://www.curse.com/texture-packs/minecraft/category/two-fifty-six-x
+
+etc.
 
 
 
