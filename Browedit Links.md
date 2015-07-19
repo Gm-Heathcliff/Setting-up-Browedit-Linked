@@ -8,23 +8,29 @@ http://browedit.excalibur-nw.com/
 
 https://github.com/Borf
 
+
 Revisions:
 
 http://browedit.excalibur-nw.com/release/      ( Use 558 or 586 for saving and 620 for editing)
 
 http://browedit.borf.info/2.0/ (Browedit 2) ( the update version will be on his fb site)
 
+
 your exe:
 
 http://browedit.excalibur-nw.com/release/latest/browedit_stable.exe
+
 
 Your dll Files :
 
 http://browedit.excalibur-nw.com/dlls.rar
 
+
 Your Data Folder:
 
 http://browedit.excalibur-nw.com/release/latest/datapack_stable.rar
+
+
 
 Mapping Ressources:
 
@@ -40,12 +46,21 @@ https://rathena.org/board/topic/57268-dl-reorganized-romodeltxt/   ( dont use it
 
 http://www.eathena.ws/board/index.php?showtopic=269326 (reflection)
 
-
 https://rathena.org/board/topic/60469-dl-resources-for-custom-textures/
 
 http://code.google.com/p/aerie-pinkpanther/downloads/list (allthings)
 
 https://rathena.org/board/files/file/2659-water-texture-caustics-generator/  (own Water Creation)
+
+
+
+website for Textures Ressources and models:
+
+
+
+
+
+
 
 
 http://www.pspad.com/en/ hexeditor for quadtree
