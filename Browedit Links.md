@@ -151,6 +151,8 @@ Browedit
 3DS Max  
 
 
+Convert model  to blib:
+https://github.com/Borf/modelconvert
 
 Linklist 3d Objects:
 
