@@ -17,7 +17,7 @@
             <texture>data/rotextures.txt</texture>
             <texture>data/texturescustom.txt</texture>
 			<texture>data/arctextures.txt</texture>
-			<texture>data/MyGroundsTextures.txt</texture>
+			<texture>data/MyFloorsTextures.txt</texture>
 			<texture>data/MyOtherTextures.txt</texture>
 			<texture>data/MyWallTextures.txt</texture>
 			<texture>data/MyTexturesGames.txt</texture>
