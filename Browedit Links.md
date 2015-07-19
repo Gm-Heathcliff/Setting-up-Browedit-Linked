@@ -1,6 +1,6 @@
 # Setting-up-Browedit-Linked
 
-BROWEDIT MANAGER Very cool for single textures
+BROWEDIT MANAGER    This IS FUCKING AWESOME Just download as basea
 https://rathena.org/board/topic/100782-browedit-manager-v0151/#entry280158
 
 Brow Edit Main Site by Borf:
