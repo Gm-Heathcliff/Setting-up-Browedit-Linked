@@ -2,11 +2,7 @@
     <ro directory="C:\ro\">
 	    <grf>C:\ro\rdata.grf</grf>
 	    <grf>C:\ro\data.grf</grf>
-		<grf>C:\ro\Elfenheim.grf</grf>
-		<grf>C:\ro\ElfenheimW.grf</grf>
-		<grf>C:\ro\MAPPING.grf</grf>
-		<grf>C:\ro\MAPPING2.grf</grf>
-		<grf>C:\ro\MyBrowDb.grf</grf>
+       	<grf>C:\ro\MyBrowDb.grf</grf>
     </ro>
     <files>
         <models>
