@@ -23,6 +23,10 @@
             <texture>data/texturescustom.txt</texture>
 			<texture>data/arctextures.txt</texture>
 			<texture>data/MyTextures.txt</texture>
+			<texture>data/MyFloorsTextures.txt</texture>
+			<texture>data/MyWallsTextures.txt</texture>
+			<texture>data/MyOtherTextures.txt</texture>
+			<texture>data/MyTexturesGames.txt</texture>
         </textures>
         <sounds>
             <sound>data/rosounds.txt</sound>
