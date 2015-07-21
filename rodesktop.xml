@@ -37,7 +37,7 @@
         <skin>data/skins/ro.xml</skin>
         <notilecolor>FFFFFF</notilecolor>
         <bgcolor>000000</bgcolor>
-		<camerasmoothing>0.0</camerasmoothing>
+		<camerasmoothing>0.1</camerasmoothing>
     </graphics>
     <undo size="50" />
     <language>english</language>
