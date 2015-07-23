@@ -46,7 +46,7 @@
 			<RANDOM2>Hoehlen Dungeon</RANDOM2>
 			<RANDOM4>Berge</RANDOM4>
 			<RANDOM5>Labyrinth</RANDOM5>
-			<MAZESTUFF>Labyrinth Sachen o Wand loeschen</MAZESTUFF>
+			<MAZESTUFF>Labyrinth Sachen-Waende loeschen</MAZESTUFF>
 			<QUADTREE>Quadtree</QUADTREE>
 			<CALCULATELIGHTMAPS>Berechne Lightmap</CALCULATELIGHTMAPS>
 			<CALCULATELIGHTMAPSLOCAL>Berechne die ausgewaehlte Lightmaps</CALCULATELIGHTMAPSLOCAL>
