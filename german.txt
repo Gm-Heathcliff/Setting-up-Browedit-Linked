@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <language>
 	<net>
-		<HOSTNOTFOUND>konnte nicht nachschlagen Host '%s',  sind Sie mit dem Internet verbunden?</HOSTNOTFOUND>
-		<NOSOCKET> Kann Socket nicht erstellen Sie bitte einen Neustart</NOSOCKET>
+		<HOSTNOTFOUND>Nach Host '%s'konnte nicht nachgeschlagen werden,  sind Sie mit dem Internet verbunden?</HOSTNOTFOUND>
+		<NOSOCKET> Kann Socket nicht erstellen! Machen Sie bitte einen Neustart</NOSOCKET>
 		<VERSIONERROR>Sie haben nicht die neueste Version von Browedit</VERSIONERROR>
 	</net>
 	<file>
