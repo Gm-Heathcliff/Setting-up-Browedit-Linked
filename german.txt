@@ -10,7 +10,7 @@
 		<DONELOADING> Datei %s fertig geladen </DONELOADING>
 		<COULDNOTOPEN>%s konnte nicht geoeffnet werden</COULDNOTOPEN>
 	</file>
-	<UNKNOWNCONFIG>Unbekannt Konfigurationsoption: %s = %s</UNKNOWNCONFIG>
+	<UNKNOWNCONFIG>Unbekannte Konfigurationsoption: %s = %s</UNKNOWNCONFIG>
 	<DONEINIT>Fertig Initialisierung</DONEINIT>
 	<CALCMODEL>Berechnet Modell %i out of %i (%.2%%)</CALCMODEL>
 	<PERCENTAGE>%f %%</PERCENTAGE>
