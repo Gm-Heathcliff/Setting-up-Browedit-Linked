@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+	<net>
+		<HOSTNOTFOUND>konnte nicht nachschlagen Host '%s',  sind Sie mit dem Internet verbunden?</HOSTNOTFOUND>
+		<NOSOCKET> Kann Socket nicht erstellen Sie bitte einen Neustart</NOSOCKET>
+		<VERSIONERROR>Sie kOennen die neueste Version von Browedit</VERSIONERROR>
+	</net>
+	<file>
+		<LOADING>Lade Datei %s</LOADING>
+		<DONELOADING> Datei %s fertig geladen </DONELOADING>
+		<COULDNOTOPEN>%s konnte nicht geoeffnet werden</COULDNOTOPEN>
+	</file>
+	<UNKNOWNCONFIG>Unbekannt Konfigurationsoption: %s = %s</UNKNOWNCONFIG>
+	<DONEINIT>Fertig Initialisierung</DONEINIT>
+	<CALCMODEL>Berechnet Modell %i out of %i (%.2%%)</CALCMODEL>
+	<PERCENTAGE>%f %%</PERCENTAGE>
+	<PLUGIN>
+		<LOAD>Plugin wird geladen: '%s'</LOAD>
+		<INVALID>%s ist kein gueltiges Plugin</INVALID>
+		<VERSIONERROR>%s ist ein Plugin das fuer version %i von browedit compiled wurde. Bitte compile das Plugin mit der letzten plugin SDK</VERSIONERROR>
+		<NOINSTANCE>%s hat keine Befehle enthalten</NOINSTANCE>
+	</PLUGIN>
+	<QUIT>Sind Sie sicher, dass Sie aufhoeren wollen?</QUIT>
+	<menu>
+		<file>
+			<TITLE>Datei</TITLE>
+			<NEW>Neu</NEW>
+			<OPEN>Oeffnen</OPEN>
+			<OPENGRF>Oeffnen von GRF</OPENGRF>
+			<CLOSE>Schliessen</CLOSE>
+			<SAVE>Speichern</SAVE>
+			<QUICKSAVE>Schnellspeichern</QUICKSAVE>
+			<SAVEAS>Speichern als</SAVEAS>
+			<IMPORTARCTURUS>Importiere Arcturus Maps</IMPORTARCTURUS>
+			<EXPORTMAPFILES>Exportiere Map Daten</EXPORTMAPFILES>
+			<REBUILDTEXTUREFILE>Wiederkonstruiere die Textur Datei</REBUILDTEXTUREFILE>
+			<REBUILDMODELFILE>Wiederkonstruiere die Model Datei</REBUILDMODELFILE>
+			<REBUILDSOUNDSFILE>Wiederkonstruiere Sound Datei</REBUILDSOUNDSFILE>
+			<MAPDATABASE>Online Map Datenbank</MAPDATABASE>
+			<SAVEONLINE>Speicher Online</SAVEONLINE>
+			<EXIT>Beenden</EXIT>
+		</file>
+		<generate>
+			<TITLE>Generieren</TITLE>
+			<RANDOM1>Huegel</RANDOM1>
+			<RANDOM2>Höhlen Dungeon</RANDOM2>
+			<RANDOM4>Berge</RANDOM4>
+			<RANDOM5>Labyrinth</RANDOM5>
+			<MAZESTUFF>Labyrinth Sachen o Wand löschen</MAZESTUFF>
+			<QUADTREE>Quadtree</QUADTREE>
+			<CALCULATELIGHTMAPS>Berechne Lightmap</CALCULATELIGHTMAPS>
+			<CALCULATELIGHTMAPSLOCAL>Berechne die ausgewaehlte Lightmaps</CALCULATELIGHTMAPSLOCAL>
+			<CALCULATELIGHTMAPSLIGHT>Berechne Lightmaps fuer ausgewaehlte Texturen</CALCULATELIGHTMAPSLIGHT>
+			<CALCULATELIGHTMAPSNOSHADOW>Berechne Lightmaps ohne Schatten</CALCULATELIGHTMAPSNOSHADOW>
+			<CLEARMAP>Leere die KarteMap</CLEARMAP>
+			<DUN99>Generiere 99 zufaellige Kerker Maps</DUN99>
+		</generate>
+		<view>
+			<TITLE>Ansicht</TITLE>
+			<GRID>Gitternetz</GRID>
+			<OBJECTS>Objekte</OBJECTS>
+			<TRANSPARENTOBJECTS>Transparente Objekte</TRANSPARENTOBJECTS>
+			<BOUNDINGBOXES>Verbundboxen</BOUNDINGBOXES>
+			<LIGHTMAPS>Lightmaps</LIGHTMAPS>
+			<GLOBALLIGHTING>Globales Licht</GLOBALLIGHTING>
+			<TILECOLORS>Felderfarben</TILECOLORS>
+			<SHOWWATER>Wasser</SHOWWATER>
+			<TOPCAMERA>Kamera von Oben</TOPCAMERA>
+			<SIDECAMERA>InRaum Kamera</SIDECAMERA>
+			<INVISIBLETILES>Unsichtbare Felder</INVISIBLETILES>
+			<SHOWGLOBALLIGHTING>Zeige Globales Licht</SHOWGLOBALLIGHTING>
+			<WATERANIMATION>Wasser Animation</WATERANIMATION>
+			<GATTILES>Gat Felder</GATTILES>
+			<SHOWDOT>Zeige Punkt</SHOWDOT>
+			<SHOWSPRITES>Zeige Sprites</SHOWSPRITES>
+		</view>
+		<editmode>
+			<TITLE>Bearbeitungsmodus</TITLE>
+			<TEXTUREEDIT>Texturen bearbeiten</TEXTUREEDIT>
+			<GLOBALHEIGHTEDIT>Globale Hoehen Bearbeitung</GLOBALHEIGHTEDIT>
+			<DETAILTERRAINEDIT>Detailierte Gelaendebearbeitung...</DETAILTERRAINEDIT>
+			<WALLEDIT>Wandbearbeitung</WALLEDIT>
+			<OBJECTEDIT>Objektbearbeitung</OBJECTEDIT>
+			<GATEDIT>GAT Felder bearbeiten</GATEDIT>
+			<WATEREDIT>Wasserbearbeitung</WATEREDIT>
+			<EFFECTSEDIT>Effektbearbeitung</EFFECTSEDIT>
+			<SOUNDSEDIT>Soundbearbeitung</SOUNDSEDIT>
+			<LIGHTSEDIT>Lichtbearbeitung</LIGHTSEDIT>
+			<OBJECTGROUPEDIT>Objektgruppenbearbeitung</OBJECTGROUPEDIT>
+			<SPRITEEDIT>Spritebearbeitung</SPRITEEDIT>
+			<TEXTUREPAINTEDIT>Texturzeichnungsbearbeitung</TEXTUREPAINTEDIT>
+		</editmode>
+		<edit>
+			<TITLE>Bearbeiten</TITLE>
+			<SPEED>Erhoehe/Verringere Bearbeitungsgeschwindigkeit</SPEED>
+			<SLOPING>Felder Ziehen</SLOPING>
+			<SNAPOBJECTS>Plaziere Objekt auf den Boden</SNAPOBJECTS>
+			<FILLAREA>Fuelle Region mit ausgewaehlter Textur aus</FILLAREA>
+			<GATHEIGHT>Setze GAT auf Texturhoehe</GATHEIGHT>
+			<RESETCOLORS>Farbe zuruecksetzen</RESETCOLORS>
+			<ADDWALLS>Fuege Waende hinzu</ADDWALLS>
+			<GATCOLLISION>Berechne GAT Kollision 1</GATCOLLISION>
+			<CLEANLIGHTMAPS>Leere Lightmaps</CLEANLIGHTMAPS>
+			<REMOVETEXTURES>Beseitige ungebrauchte Texturen</REMOVETEXTURES>
+			<CLEARLIGHTMAPSONEDIT>Leere Lightmaps wenn du Texturen bearbeitest</CLEARLIGHTMAPSONEDIT>
+			<SELECTALL>Alle Felder auswaehlen</SELECTALL>
+		</edit>
+		<effects>
+			<TITLE>Effekte</TITLE>
+		</effects>
+		<windows>
+			<TITLE>Fenster</TITLE>
+			<GLOBALLIGHTING>Globales Licht</GLOBALLIGHTING>
+			<MODELWINDOW>Modelle</MODELWINDOW>
+			<TEXTURES>Texturen</TEXTURES>
+			<PROPERTIES>Eigenschaften</PROPERTIES>
+			<WATER>Wasser</WATER>
+			<PREFERENCES>Voreinstellungen</PREFERENCES>
+			<RSMEDITOR>RSM bearbeiten</RSMEDITOR>
+			<FAVLIGHTS>Favorisierte Lichter</FAVLIGHTS>
+			<OVERVIEW>Karten uebersicht</OVERVIEW>
+			<MAPINFO>Karten Informationen</MAPINFO>
+		</windows>
+		<tools>
+			<TITLE>Werkzeuge</TITLE>
+			<CLEARMAP>Leere Karte</CLEARMAP>
+			<CONVERT>Convertiere 3ds zu RSM</CONVERT>
+			<generators>
+				<TITLE>Generatoren</TITLE>
+				<MAZEGENERATOR>Labyrinth</MAZEGENERATOR>
+				<CULVERTGENERATOR>Kanal</CULVERTGENERATOR>
+			</generators>
+			<gat>
+				<TITLE>GAT</TITLE>
+				<GATHEIGHT>Setze Hoehe zu Geometrie Hoehe</GATHEIGHT>
+			</gat>
+			<lightmap>
+				<TITLE>Lightmap</TITLE>
+				<IMPORT>Importieren</IMPORT>
+				<EXPORT>Exportieren</EXPORT>
+			</lightmap>
+		</tools>
+	</menu>
+	<fs>
+		<GRFOPENERROR>FS: Fehler beim laden der GRF %s</GRFOPENERROR>
+		<GRFOPENDONE>FS: %s GRF wurde gelesen</GRFOPENDONE>
+		<FILEERROR>FS: Kann die Datei %s nicht Oeffnen</FILEERROR>
+	</fs>
+	<font>
+		<LOADING>Font: Lade Zeichensatz %s</LOADING>
+		<DONELOADING>Font: Zeichensatz %s wurde geladen</DONELOADING>
+	</font>
+
+	<graphics>
+		<INIT>Initialisiere Grafiken</INIT>
+		<INITFAIL>Video Initialisierung fehlgeschlagen: %s</INITFAIL>
+		<QUERYFAIL>Video Abfrage fehlgeschlagen: %s</QUERYFAIL>
+		<VIDEOMODEFAIL>VIDEO-Modus fehlgeschlagen: %s</VIDEOMODEFAIL>
+		<OPENGLFAIL>OpenGL init fehlgeschlagen</OPENGLFAIL>
+		<OPENINGTEXTURES>Oeffne Texturen</OPENINGTEXTURES>
+		<INITIALIZINGWM>Initialisiere WM</INITIALIZINGWM>
+		<TEXTUREFAIL>Kann %s Texturen nicht laden</TEXTUREFAIL>
+		<texturecache>
+			<UNLOADFAIL>Texturecache: Versuche die textur %s zu entladen, aber die Textur wurde nicht durch die texturecache geladen !</UNLOADFAIL>
+			<UNLOADALOT>Texturecache: Die Textur %s ist zu oft entladen geworden!</UNLOADALOT>
+			<STILLLOADED>Texturecache: Die Textur %s ist %i mal entladen worden</STILLLOADED>
+		</texturecache>
+	</graphics>
+	<world>
+		<LOAD>World: Laedt %s</LOAD>
+		<LOADFAIL>World: %s kann nicht geOeffnet werden </LOADFAIL>
+		<LOADDONE>World: Laden erledigt %s</LOADDONE>
+		<MODELFAIL>World: Kann nicht das Modell %s laden</MODELFAIL>
+		<UNKNOWNOBJECT>World: Unbekannter Objekt Typ %i</UNKNOWNOBJECT>
+		<QUADTREECALC>Quadtree: looking at model %i out of %i (%.2f%%)</QUADTREECALC>
+		<TOOMANYLIGHTMAPS>Zu viele Lightmaps!</TOOMANYLIGHTMAPS>
+		<MODELCOUNT>World: %i Modelle eingetragen</MODELCOUNT>
+		<TILESUSED>World: %i Felder wurden Benutzt</TILESUSED>
+		<TILESLEFT>World: %i Felder uebrig</TILESLEFT>
+		<INVALIDLIGHTMAPFORMAT>Ungueltiges Lightmaps format: (%dx%d size %d)! Setze es auf (%dx%d size %d).</INVALIDLIGHTMAPFORMAT>
+	</world>
+	<wm>
+		<OK>Ok</OK>
+		<CANCEL>Abbrechen</CANCEL>
+		<globallighting>
+			<TITLE>Globales Licht</TITLE>
+			<DIFFUSETITLE>Licht streuen</DIFFUSETITLE>
+			<DIFFUSECOLOR>Farbe:</DIFFUSECOLOR>
+			<LONGITUDE>Winkel Laengengrad:</LONGITUDE>
+			<LATITUDE>Winkel Spielraum:</LATITUDE>
+			
+			<AMBIENTTITLE>Licht Ambiente</AMBIENTTITLE>
+			<AMBIENTCOLOR>Farbe:</AMBIENTCOLOR>
+			<AMBINTENSITY>Intensitaet:</AMBINTENSITY>
+		</globallighting>
+		<confirm>
+			<TITLE>Bitte Bestaetige...</TITLE>
+		</confirm>
+		<effect>
+			<TITLE>Effekt</TITLE>
+			<POS>Position:</POS>
+			<SCALE>Scalieren:</SCALE>
+			<ROT>Rotation:</ROT>
+			<LOOPTIME>Loop Time:</LOOPTIME>
+		</effect>
+		<input>
+			<TITLE>Bitte geb ein...</TITLE>
+		</input>
+		<light>
+			<TITLE>Licht...</TITLE>
+			<NAME>Name:</NAME>
+			<HEIGHT>Hoehe:</HEIGHT>
+			<COLOR>Farbe:</COLOR>
+			<INTENSITY>Intensitaet:</INTENSITY>
+			<RANGE>Reichweite:</RANGE>
+			<MAXLIGHTINCREMENT>Max. Licht Steigerung</MAXLIGHTINCREMENT>
+			<LIGHTFALLOFF>Light Falloff (0-1)</LIGHTFALLOFF>
+			<CASTSSHADOW>Werfe Schatten</CASTSSHADOW>
+		</light>
+		<favlight>
+			<TITLE>Favorisierte Lichter</TITLE>
+			<NAME>Name:</NAME>
+			<HEIGHT>Hoehe:</HEIGHT>
+			<COLOR>Farbe:</COLOR>
+			<INTENSITY>Intensitaet:</INTENSITY>
+			<RANGE>Reichweite:</RANGE>
+			<MAXLIGHTINCREMENT>Max. Licht Steigerung</MAXLIGHTINCREMENT>
+			<LIGHTFALLOFF>Light Falloff (0-1)</LIGHTFALLOFF>
+			<CASTSSHADOW>Werfe Schatten</CASTSSHADOW>
+		</favlight>
+		<message>
+			<TITLE>Nachricht...</TITLE>
+		</message>
+		<model>
+			<TITLE>Modell Auswahl...</TITLE>
+			<DELETECONFIRM>Bist du dir sicher das du das Modell von der Liste entfernen mOechtest?</DELETECONFIRM>
+			<NODENAME>Bitte gebe den Namen fuer die node ein</NODENAME>
+		</model>
+		<object>
+			<TITLE>Objekt...</TITLE>
+			<OBJECT>Objekt:</OBJECT>
+			<POSITION>Position:</POSITION>
+			<SCALE>Scalierung:</SCALE>
+			<ROTATION>Rotation:</ROTATION>
+			<LIGHTOPACITY>Opacity (0 - 1):</LIGHTOPACITY>
+		</object>
+		<texture>
+			<TITLE>Texturen Auswahl...</TITLE>
+		</texture>
+		<water>
+			<TITLE>Wasser...</TITLE>
+			<AMPLITUDE>Umfang:</AMPLITUDE>
+			<HEIGHT>Hoehe:</HEIGHT>
+			<PHASE>Phase:</PHASE>
+			<SURFACECYCLE>OberflaechenKreis:</SURFACECYCLE>
+			<TEXTURECYCLE>TexturenKreis:</TEXTURECYCLE>
+			<TYPE>Typ:</TYPE>
+			<ANIMSPEED>Geschwindigkeit:</ANIMSPEED>
+		</water>
+		<preferences>
+			<TITLE>Voreinstellungen...</TITLE>
+		</preferences>
+		<areacopy>
+			<TITLE>Flaechen Kopier Voreinstellungen...</TITLE>
+			<MODELS>Modelle:</MODELS>
+			<TEXTURES>Texturen:</TEXTURES>
+			<HEIGHT>Hoehe:</HEIGHT>
+			<GAT>Gat:</GAT>
+			<WALLS>Waende:</WALLS>
+			<LIGHTS>Lichter:</LIGHTS>
+			<EFFECTS>Effekte:</EFFECTS>
+			<SOUNDS>Sounds:</SOUNDS>
+		</areacopy>
+		<sprite>
+			<TITLE>Sprite...</TITLE>
+		</sprite>
+		<overview>
+			<TITLE>Karten uebersicht...</TITLE>
+		</overview>
+		<file>
+			<TITLE>Datei...</TITLE>
+			<SELECTMAP>Waehle Karte</SELECTMAP>
+		</file>
+		<progress>
+			<TITLE>vorankommen:</TITLE>
+		</progress>
+		<sound>
+			<TITLE>Sounds...</TITLE>
+			<NAME>Name:</NAME>
+			<FILE>Datei:</FILE>
+			<POSITION>Position:</POSITION>
+			<SCALE>Scaliere:</SCALE>
+			<ROTATION>Rotiere:</ROTATION>
+			<REPEATDELAY>Wiederhole VerzOegerung:</REPEATDELAY>
+		</sound>
+		<soundselect>
+			<TITLE>Sound Auswahl...</TITLE>
+		</soundselect>
+		<maps>
+			<TITLE>Online Karten Datenbank...</TITLE>
+		</maps>
+		<mapdetail>
+			<TITLE>Online Karten Datenbank Detail...</TITLE>
+		</mapdetail>
+		<clearmap>
+			<TITLE>Leere Karte</TITLE>
+			<TEXTURES>Texturen</TEXTURES>
+			<HEIGHT>Hoehen</HEIGHT>
+			<WALLS>Waende</WALLS>
+			<GAT>Gat</GAT>
+			<LIGHTMAPS>Lightmaps</LIGHTMAPS>
+			<OBJECTS>Objekte</OBJECTS>
+			<LIGHTS>Lichter</LIGHTS>
+			<SOUNDS>Sounds</SOUNDS>
+			<EFFECTS>Effekte</EFFECTS>
+			<SPRITES>Sprites</SPRITES>
+		</clearmap>
+	</wm>
+</language>
