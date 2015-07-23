@@ -33,9 +33,9 @@
 			<SAVEAS>Speichern als</SAVEAS>
 			<IMPORTARCTURUS>Importiere Arcturus Maps</IMPORTARCTURUS>
 			<EXPORTMAPFILES>Exportiere Map Daten</EXPORTMAPFILES>
-			<REBUILDTEXTUREFILE>Wiederkonstruiere die Textur Datei</REBUILDTEXTUREFILE>
-			<REBUILDMODELFILE>Wiederkonstruiere die Model Datei</REBUILDMODELFILE>
-			<REBUILDSOUNDSFILE>Wiederkonstruiere Sound Datei</REBUILDSOUNDSFILE>
+			<REBUILDTEXTUREFILE>Textur Datei Wiederaufbauen</REBUILDTEXTUREFILE>
+			<REBUILDMODELFILE>Model Datei Wiederaufbauen</REBUILDMODELFILE>
+			<REBUILDSOUNDSFILE>Sound Datei Wiederaufbauen</REBUILDSOUNDSFILE>
 			<MAPDATABASE>Online Map Datenbank</MAPDATABASE>
 			<SAVEONLINE>Speicher Online</SAVEONLINE>
 			<EXIT>Beenden</EXIT>
