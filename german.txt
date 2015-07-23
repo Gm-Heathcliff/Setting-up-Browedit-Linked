@@ -95,7 +95,7 @@
 			<SPEED>Erhoehe/Verringere Bearbeitungsgeschwindigkeit</SPEED>
 			<SLOPING>Felder Ziehen</SLOPING>
 			<SNAPOBJECTS>Plaziere Objekt auf den Boden</SNAPOBJECTS>
-			<FILLAREA>Fuelle Region mit ausgewaehlter Textur aus</FILLAREA>
+			<FILLAREA>Fuelle Flaeche mit ausgewaehlter Textur aus</FILLAREA>
 			<GATHEIGHT>Setze GAT auf Texturhoehe</GATHEIGHT>
 			<RESETCOLORS>Farbe zuruecksetzen</RESETCOLORS>
 			<ADDWALLS>Waende hinzufuegen</ADDWALLS>
