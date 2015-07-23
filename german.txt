@@ -52,7 +52,7 @@
 			<CALCULATELIGHTMAPSLOCAL>Berechne die ausgewaehlte Lightmaps</CALCULATELIGHTMAPSLOCAL>
 			<CALCULATELIGHTMAPSLIGHT>Berechne Lightmaps fuer ausgewaehlte Texturen</CALCULATELIGHTMAPSLIGHT>
 			<CALCULATELIGHTMAPSNOSHADOW>Berechne Lightmaps ohne Schatten</CALCULATELIGHTMAPSNOSHADOW>
-			<CLEARMAP>Leere die KarteMap</CLEARMAP>
+			<CLEARMAP>Saeubere die KarteMap</CLEARMAP>
 			<DUN99>Generiere 99 zufaellige Kerker Maps</DUN99>
 		</generate>
 		<view>
@@ -100,9 +100,9 @@
 			<RESETCOLORS>Farbe zuruecksetzen</RESETCOLORS>
 			<ADDWALLS>Fuege Waende hinzu</ADDWALLS>
 			<GATCOLLISION>Berechne GAT Kollision 1</GATCOLLISION>
-			<CLEANLIGHTMAPS>Leere Lightmaps</CLEANLIGHTMAPS>
+			<CLEANLIGHTMAPS>Saeubere Lightmaps</CLEANLIGHTMAPS>
 			<REMOVETEXTURES>Beseitige ungebrauchte Texturen</REMOVETEXTURES>
-			<CLEARLIGHTMAPSONEDIT>Leere Lightmaps wenn du Texturen bearbeitest</CLEARLIGHTMAPSONEDIT>
+			<CLEARLIGHTMAPSONEDIT>Saeubere Lightmaps wenn du Texturen bearbeitest</CLEARLIGHTMAPSONEDIT>
 			<SELECTALL>Alle Felder auswaehlen</SELECTALL>
 		</edit>
 		<effects>
@@ -123,7 +123,7 @@
 		</windows>
 		<tools>
 			<TITLE>Werkzeuge</TITLE>
-			<CLEARMAP>Leere Karte</CLEARMAP>
+			<CLEARMAP>Saeubere Karte</CLEARMAP>
 			<CONVERT>Convertiere 3ds zu RSM</CONVERT>
 			<generators>
 				<TITLE>Generatoren</TITLE>
@@ -303,7 +303,7 @@
 			<TITLE>Online Karten Datenbank Detail...</TITLE>
 		</mapdetail>
 		<clearmap>
-			<TITLE>Leere Karte</TITLE>
+			<TITLE>Saeubere Karte</TITLE>
 			<TEXTURES>Texturen</TEXTURES>
 			<HEIGHT>Hoehen</HEIGHT>
 			<WALLS>Waende</WALLS>
