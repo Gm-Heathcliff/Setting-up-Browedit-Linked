@@ -124,7 +124,7 @@
 		<tools>
 			<TITLE>Werkzeuge</TITLE>
 			<CLEARMAP>Saeubere Karte</CLEARMAP>
-			<CONVERT>Convertiere 3ds zu RSM</CONVERT>
+			<CONVERT>3ds zu RSM Konvertierung</CONVERT>
 			<generators>
 				<TITLE>Generatoren</TITLE>
 				<MAZEGENERATOR>Labyrinth</MAZEGENERATOR>
