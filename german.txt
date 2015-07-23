@@ -43,10 +43,10 @@
 		<generate>
 			<TITLE>Generieren</TITLE>
 			<RANDOM1>Huegel</RANDOM1>
-			<RANDOM2>Höhlen Dungeon</RANDOM2>
+			<RANDOM2>Hoehlen Dungeon</RANDOM2>
 			<RANDOM4>Berge</RANDOM4>
 			<RANDOM5>Labyrinth</RANDOM5>
-			<MAZESTUFF>Labyrinth Sachen o Wand löschen</MAZESTUFF>
+			<MAZESTUFF>Labyrinth Sachen o Wand loeschen</MAZESTUFF>
 			<QUADTREE>Quadtree</QUADTREE>
 			<CALCULATELIGHTMAPS>Berechne Lightmap</CALCULATELIGHTMAPS>
 			<CALCULATELIGHTMAPSLOCAL>Berechne die ausgewaehlte Lightmaps</CALCULATELIGHTMAPSLOCAL>
