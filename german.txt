@@ -168,7 +168,7 @@
 	</graphics>
 	<world>
 		<LOAD>World: Laedt %s</LOAD>
-		<LOADFAIL>World: %s kann nicht geOeffnet werden </LOADFAIL>
+		<LOADFAIL>World: %s kann nicht geoeffnet werden </LOADFAIL>
 		<LOADDONE>World: Laden erledigt %s</LOADDONE>
 		<MODELFAIL>World: Kann nicht das Modell %s laden</MODELFAIL>
 		<UNKNOWNOBJECT>World: Unbekannter Objekt Typ %i</UNKNOWNOBJECT>
@@ -233,7 +233,7 @@
 		</message>
 		<model>
 			<TITLE>Modell Auswahl...</TITLE>
-			<DELETECONFIRM>Bist du dir sicher das du das Modell von der Liste entfernen mOechtest?</DELETECONFIRM>
+			<DELETECONFIRM>Bist du dir sicher das du das Modell von der Liste entfernen moechtest?</DELETECONFIRM>
 			<NODENAME>Bitte gebe den Namen fuer die node ein</NODENAME>
 		</model>
 		<object>
@@ -291,7 +291,7 @@
 			<POSITION>Position:</POSITION>
 			<SCALE>Scaliere:</SCALE>
 			<ROTATION>Rotiere:</ROTATION>
-			<REPEATDELAY>Wiederhole VerzOegerung:</REPEATDELAY>
+			<REPEATDELAY>Wiederhole Verzoegerung:</REPEATDELAY>
 		</sound>
 		<soundselect>
 			<TITLE>Sound Auswahl...</TITLE>
