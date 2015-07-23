@@ -77,7 +77,7 @@
 		<editmode>
 			<TITLE>Bearbeitungsmodus</TITLE>
 			<TEXTUREEDIT>Texturen bearbeiten</TEXTUREEDIT>
-			<GLOBALHEIGHTEDIT>Globale Hoehen Bearbeitung</GLOBALHEIGHTEDIT>
+			<GLOBALHEIGHTEDIT>Globale Hoehen Bearbeitung-Flaeche Markieren</GLOBALHEIGHTEDIT>
 			<DETAILTERRAINEDIT>Detailierte Gelaendebearbeitung...</DETAILTERRAINEDIT>
 			<WALLEDIT>Wandbearbeitung</WALLEDIT>
 			<OBJECTEDIT>Objektbearbeitung</OBJECTEDIT>
@@ -98,7 +98,7 @@
 			<FILLAREA>Fuelle Region mit ausgewaehlter Textur aus</FILLAREA>
 			<GATHEIGHT>Setze GAT auf Texturhoehe</GATHEIGHT>
 			<RESETCOLORS>Farbe zuruecksetzen</RESETCOLORS>
-			<ADDWALLS>Fuege Waende hinzu</ADDWALLS>
+			<ADDWALLS>Waende hinzufuegen</ADDWALLS>
 			<GATCOLLISION>Berechne GAT Kollision 1</GATCOLLISION>
 			<CLEANLIGHTMAPS>Saeubere Lightmaps</CLEANLIGHTMAPS>
 			<REMOVETEXTURES>Beseitige ungebrauchte Texturen</REMOVETEXTURES>
@@ -118,7 +118,7 @@
 			<PREFERENCES>Voreinstellungen</PREFERENCES>
 			<RSMEDITOR>RSM bearbeiten</RSMEDITOR>
 			<FAVLIGHTS>Favorisierte Lichter</FAVLIGHTS>
-			<OVERVIEW>Karten uebersicht</OVERVIEW>
+			<OVERVIEW>Kartenuebersicht</OVERVIEW>
 			<MAPINFO>Karten Informationen</MAPINFO>
 		</windows>
 		<tools>
