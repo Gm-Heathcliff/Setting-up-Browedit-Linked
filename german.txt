@@ -11,7 +11,7 @@
 		<COULDNOTOPEN>%s konnte nicht geoeffnet werden</COULDNOTOPEN>
 	</file>
 	<UNKNOWNCONFIG>Unbekannte Konfigurationsoption: %s = %s</UNKNOWNCONFIG>
-	<DONEINIT>Fertig Initialisierung</DONEINIT>
+	<DONEINIT>Initialisierung Fertig</DONEINIT>
 	<CALCMODEL>Berechnet Modell %i out of %i (%.2%%)</CALCMODEL>
 	<PERCENTAGE>%f %%</PERCENTAGE>
 	<PLUGIN>
