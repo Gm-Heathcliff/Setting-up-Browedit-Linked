@@ -3,7 +3,7 @@
 	<net>
 		<HOSTNOTFOUND>konnte nicht nachschlagen Host '%s',  sind Sie mit dem Internet verbunden?</HOSTNOTFOUND>
 		<NOSOCKET> Kann Socket nicht erstellen Sie bitte einen Neustart</NOSOCKET>
-		<VERSIONERROR>Sie kOennen die neueste Version von Browedit</VERSIONERROR>
+		<VERSIONERROR>Sie koennen die neueste Version von Browedit</VERSIONERROR>
 	</net>
 	<file>
 		<LOADING>Lade Datei %s</LOADING>
