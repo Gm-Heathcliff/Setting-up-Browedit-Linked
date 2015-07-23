@@ -52,7 +52,7 @@
 			<CALCULATELIGHTMAPSLOCAL>Berechne die ausgewaehlte Lightmaps</CALCULATELIGHTMAPSLOCAL>
 			<CALCULATELIGHTMAPSLIGHT>Berechne Lightmaps fuer ausgewaehlte Texturen</CALCULATELIGHTMAPSLIGHT>
 			<CALCULATELIGHTMAPSNOSHADOW>Berechne Lightmaps ohne Schatten</CALCULATELIGHTMAPSNOSHADOW>
-			<CLEARMAP>Saeubere die KarteMap</CLEARMAP>
+			<CLEARMAP>Saeubere die Karte-Map</CLEARMAP>
 			<DUN99>Generiere 99 zufaellige Kerker Maps</DUN99>
 		</generate>
 		<view>
